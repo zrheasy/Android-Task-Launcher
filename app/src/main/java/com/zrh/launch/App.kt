@@ -13,7 +13,7 @@ class App : Application() {
     override fun onCreate() {
         super.onCreate()
 
-        val launcher = TaskLauncher();
+        val launcher = TaskLauncher()
         launcher.setLogger { tag, msg -> Log.d(tag, msg) }
 
 
