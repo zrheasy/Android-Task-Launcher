@@ -8,7 +8,7 @@ Android初始化任务启动器，支持异步任务，自动管理任务依赖�
 ### 使用步骤
 #### 1.下载AAR并添加到项目中。
 ```groovy
-implementation(name:"task-launcher-v1.0", ext:"aar")
+implementation fileTree(dir: 'libs', include: ['*.jar','*.aar'])
 ```
 
 #### 2.创建TaskLauncher。
