@@ -1,7 +1,7 @@
 # Android-Task-Launcher
 Android初始化任务启动器，支持异步任务，自动管理任务依赖关系。
 
-[下载地址](https://github.com/zrh1994/Android-Task-Launcher/releases/download/v1.0.0/task-launcher-v1.0.aar)
+[下载地址](https://github.com/zrheasy/Android-Task-Launcher/releases/download/v1.0.0/task-launcher-v1.0.aar)
 
 ![任务执行日志](assets/launch-log.png)
 
